@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+@source "../vendor/livewire/flux";
+
+[x-cloak] {
+    display: none;
+}
